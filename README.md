@@ -1,2 +1,2 @@
-# new-test
-My test repository. Duh.
+# ★　This is your new hell ★
+Welcome to nothing~. ^^;
