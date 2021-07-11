@@ -1,2 +1,2 @@
-# ★　This is your new hell ★
+# ★ This is your new hell ★
 Welcome to nothing~. ^^;
