@@ -1,2 +1,5 @@
-# ★ This is your new hell ★
-Welcome to nothing~. ^^;
+# ★ This is testing ★
+This is my testing repository.
+You welcome.
+
+Training: HTML, C++, and others (probably)
