@@ -4,7 +4,7 @@ int takeNum()
 {
   int x{};
   std::cout << "Please enter a number: ";
-  std::cin << x;
+  std::cin >> x;
   return x;
 }
 
